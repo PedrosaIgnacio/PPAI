@@ -1,0 +1,12 @@
+C:\Users\Nacho\source\repos\PPAI_2k1_2022\Entities\bin\Debug\Entities.dll
+C:\Users\Nacho\source\repos\PPAI_2k1_2022\Entities\bin\Debug\Entities.pdb
+C:\Users\Nacho\source\repos\PPAI_2k1_2022\Entities\obj\Debug\Entities.csproj.AssemblyReference.cache
+C:\Users\Nacho\source\repos\PPAI_2k1_2022\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\source\repos\PPAI_2k1_2022\Entities\obj\Debug\Entities.dll
+C:\Users\Nacho\source\repos\PPAI_2k1_2022\Entities\obj\Debug\Entities.pdb
+C:\Users\Ignacio\Downloads\PPAI_3k1_2022\PPAI_3k1_2022\Entities\bin\Debug\Entities.dll
+C:\Users\Ignacio\Downloads\PPAI_3k1_2022\PPAI_3k1_2022\Entities\bin\Debug\Entities.pdb
+C:\Users\Ignacio\Downloads\PPAI_3k1_2022\PPAI_3k1_2022\Entities\obj\Debug\Entities.csproj.AssemblyReference.cache
+C:\Users\Ignacio\Downloads\PPAI_3k1_2022\PPAI_3k1_2022\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio\Downloads\PPAI_3k1_2022\PPAI_3k1_2022\Entities\obj\Debug\Entities.dll
+C:\Users\Ignacio\Downloads\PPAI_3k1_2022\PPAI_3k1_2022\Entities\obj\Debug\Entities.pdb

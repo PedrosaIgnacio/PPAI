@@ -1,0 +1,18 @@
+C:\Users\Nacho\source\repos\PPAI_2k1_2022\Data Access Layer\bin\Debug\Data Access Layer.dll
+C:\Users\Nacho\source\repos\PPAI_2k1_2022\Data Access Layer\bin\Debug\Data Access Layer.pdb
+C:\Users\Nacho\source\repos\PPAI_2k1_2022\Data Access Layer\bin\Debug\Entities.dll
+C:\Users\Nacho\source\repos\PPAI_2k1_2022\Data Access Layer\bin\Debug\Entities.pdb
+C:\Users\Nacho\source\repos\PPAI_2k1_2022\Data Access Layer\obj\Debug\Data Access Layer.csproj.AssemblyReference.cache
+C:\Users\Nacho\source\repos\PPAI_2k1_2022\Data Access Layer\obj\Debug\Data Access Layer.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\source\repos\PPAI_2k1_2022\Data Access Layer\obj\Debug\Data Access Layer.csproj.CopyComplete
+C:\Users\Nacho\source\repos\PPAI_2k1_2022\Data Access Layer\obj\Debug\Data Access Layer.dll
+C:\Users\Nacho\source\repos\PPAI_2k1_2022\Data Access Layer\obj\Debug\Data Access Layer.pdb
+C:\Users\Ignacio\Downloads\PPAI_3k1_2022\PPAI_3k1_2022\Data Access Layer\bin\Debug\Data Access Layer.dll
+C:\Users\Ignacio\Downloads\PPAI_3k1_2022\PPAI_3k1_2022\Data Access Layer\bin\Debug\Data Access Layer.pdb
+C:\Users\Ignacio\Downloads\PPAI_3k1_2022\PPAI_3k1_2022\Data Access Layer\bin\Debug\Entities.dll
+C:\Users\Ignacio\Downloads\PPAI_3k1_2022\PPAI_3k1_2022\Data Access Layer\bin\Debug\Entities.pdb
+C:\Users\Ignacio\Downloads\PPAI_3k1_2022\PPAI_3k1_2022\Data Access Layer\obj\Debug\Data Access Layer.csproj.AssemblyReference.cache
+C:\Users\Ignacio\Downloads\PPAI_3k1_2022\PPAI_3k1_2022\Data Access Layer\obj\Debug\Data Access Layer.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio\Downloads\PPAI_3k1_2022\PPAI_3k1_2022\Data Access Layer\obj\Debug\Data Access Layer.csproj.CopyComplete
+C:\Users\Ignacio\Downloads\PPAI_3k1_2022\PPAI_3k1_2022\Data Access Layer\obj\Debug\Data Access Layer.dll
+C:\Users\Ignacio\Downloads\PPAI_3k1_2022\PPAI_3k1_2022\Data Access Layer\obj\Debug\Data Access Layer.pdb
