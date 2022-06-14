@@ -63,10 +63,10 @@ namespace Business_Logic_Layer
             this.RecursosTecnologicosDelTipoSelec = lstRT;
         }
 
-        public  buscarDatosRT()
-        {
+        //public  buscarDatosRT()
+        //{
 
-        }
+        //}
         //private Marca obtenerMarcaModelo(Modelo modelo)
         //{
         //    List<Marca> lstMarca = (List<Marca>)ViewState["ListaMarcas"];
